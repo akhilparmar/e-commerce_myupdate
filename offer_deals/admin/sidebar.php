@@ -15,6 +15,7 @@
           <ul class="treeview-menu">
             <li class="active"><a href="<?php echo BASEURL; ?>admin/users.php"><i class="fa fa-circle-o"></i> Users</a></li>
             <li class="active"><a href="<?php echo BASEURL; ?>admin/products.php"><i class="fa fa-circle-o"></i> Products</a></li>
+            <li class="active"><a href="<?php echo BASEURL; ?>admin/category.php"><i class="fa fa-circle-o"></i> Categories</a></li>
           </ul>
         </li>
       </ul>
